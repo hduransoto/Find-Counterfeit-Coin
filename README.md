@@ -23,5 +23,5 @@ USAGE:
 	The program will the output 'Found counterfeit at index: 87'.
 	
 	
-	The cool part is that it took less than or equal to 10 comparisons to find the fake coin!!!
+	The cool part is that it takes less than or equal to 10 comparisons to find the fake coin!!!
 '''
